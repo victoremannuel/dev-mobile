@@ -1,0 +1,18 @@
+{
+  "name": "lista-algoritmos-basicos",
+  "version": "1.0.0",
+  "description": "Exercícios básicos de vetores em JavaScript",
+  "main": "exercicio1.js",
+  "scripts": {
+    "ex1": "node exercicio1.js",
+    "ex2": "node exercicio2.js",
+    "ex3": "node exercicio3.js",
+    "ex4": "node exercicio4.js",
+    "ex5": "node exercicio5.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
