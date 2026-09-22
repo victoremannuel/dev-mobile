@@ -1,8 +1,9 @@
 # Layout Recuperação - React Native (JavaScript)
 
-Projeto em React Native com Expo, desenvolvido em JavaScript para reproduzir o layout solicitado na lista de exercícios.
+Projeto em React Native com Expo, desenvolvido em JavaScript.
 
 ## Componentes utilizados
+
 - `Pressable`: botões e itens clicáveis.
 - `ScrollView`: rolagem da lista de pessoas.
 - `View`: organização e estrutura do layout.
