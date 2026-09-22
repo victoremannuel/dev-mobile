@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Layout Recuperacao",
+    "slug": "layout-recuperacao-js",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
