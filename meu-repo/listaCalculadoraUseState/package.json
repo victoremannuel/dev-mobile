@@ -1,0 +1,29 @@
+{
+  "name": "calculadora-react-native",
+  "version": "1.0.1",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "test": "node --test tests/*.test.cjs",
+    "doctor": "npx expo-doctor",
+    "diagnose": "node scripts/diagnose.cjs"
+  },
+  "dependencies": {
+    "expo": "~57.0.17",
+    "mathjs": "^14.0.0",
+    "react": "19.2.3",
+    "react-native": "0.86.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "babel-preset-expo": "~57.0.13"
+  },
+  "description": "Exercicio calculadora React Native com duas versoes (useState e mathjs)",
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

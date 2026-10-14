@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Calculadora - Duas Versões",
+    "slug": "calculadora-duas-versoes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F5F7FB",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "adaptiveIcon": {
+        "backgroundColor": "#16345F"
+      }
+    }
+  }
+}

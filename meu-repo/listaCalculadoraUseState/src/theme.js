@@ -1,0 +1,17 @@
+export const COLORS = {
+  background: '#F5F7FB',
+  white: '#FFFFFF',
+  navy: '#16345F',
+  navyDeep: '#0D213E',
+  blue: '#2A65AF',
+  bluePale: '#E9F1FF',
+  ink: '#1C293B',
+  muted: '#637187',
+  border: '#DDE5F0',
+  red: '#B92D3B',
+  redPale: '#FFF0F1',
+  green: '#227B53',
+  greenPale: '#DCEFE4',
+  purple: '#7753A1',
+  purplePale: '#EFE7F7',
+};
